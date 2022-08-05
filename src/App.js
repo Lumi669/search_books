@@ -5,6 +5,8 @@ import {
   SelectedFilters,
   ResultList,
   ReactiveList,
+  MultiList,
+  SingleRange,
 } from "@appbaseio/reactivesearch";
 
 function App() {
@@ -16,29 +18,46 @@ function App() {
       enableAppbase
     >
       {/* Our components will go over here */}
-      Hello from ReactiveSearch 👋
-      <DynamicRangeSlider
-        componentId="DynamicRangeSensor"
-        dataField="guests"
-        title="Guests"
-        defaultValue={(min, max) => ({
-          start: min,
-          end: Math.min(min + 5, max),
-        })}
-        rangeLabels={(min, max) => ({
-          start: min + " guest",
-          end: max + " guests",
-        })}
-        stepValue={1}
-        showHistogram={true}
-        showFilter={true}
-        interval={2}
-        react={{
-          and: ["CategoryFilter", "SearchFilter"],
-        }}
-        URLParams={true}
-        loader="Loading ..."
-        includeNullValues
+      {/* Hello from ReactiveSearch 👋 */}
+      <DataSearch
+        componentId="searchbox"
+        dataField={[
+          {
+            field: "authors",
+            weight: 3,
+          },
+          {
+            field: "authors.autosuggest",
+            weight: 1,
+          },
+          {
+            field: "original_title",
+            weight: 5,
+          },
+          {
+            field: "original_title.autosuggest",
+            weight: 1,
+          },
+        ]}
+        placeholder="Search for books or authors"
+      />
+
+      <MultiList
+        componentId="authorsfilter"
+        dataField="authors.keyword"
+        title="Filter by Authors"
+        aggregationSize={5}
+      />
+
+      <SingleRange
+        componentId="ratingsfilter"
+        dataField="average_rating"
+        title="Filter by Ratings"
+        data={[
+          { start: 4, end: 5, label: "4 stars and up" },
+          { start: 3, end: 5, label: "3 stars and up" },
+        ]}
+        defaultValue="4 stars and up"
       />
     </ReactiveBase>
   );
