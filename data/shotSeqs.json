@@ -1,0 +1,515 @@
+[
+  {
+    "﻿": "63",
+    "min": "5",
+    "sec": "9",
+    "secs": "309",
+    "action": "Steal",
+    "number": "11",
+    "last_name": "Tilda"
+  },
+  {
+    "﻿": "64",
+    "min": "5",
+    "sec": "12",
+    "secs": "312",
+    "action": "Shot/On goal",
+    "number": "11",
+    "last_name": "Tilda"
+  },
+  {
+    "﻿": "146",
+    "min": "11",
+    "sec": "43",
+    "secs": "703",
+    "action": "Throw-in",
+    "number": "23",
+    "last_name": "Sanni"
+  },
+  {
+    "﻿": "147",
+    "min": "11",
+    "sec": "55",
+    "secs": "715",
+    "action": "Protection",
+    "number": "11",
+    "last_name": "Tilda"
+  },
+  {
+    "﻿": "148",
+    "min": "11",
+    "sec": "59",
+    "secs": "719",
+    "action": "Short pass",
+    "number": "20",
+    "last_name": "Aino"
+  },
+  {
+    "﻿": "149",
+    "min": "12",
+    "sec": "2",
+    "secs": "722",
+    "action": "Duel",
+    "number": "88",
+    "last_name": "Kerttu"
+  },
+  {
+    "﻿": "150",
+    "min": "12",
+    "sec": "5",
+    "secs": "725",
+    "action": "Short pass",
+    "number": "20",
+    "last_name": "Aino"
+  },
+  {
+    "﻿": "151",
+    "min": "12",
+    "sec": "8",
+    "secs": "728",
+    "action": "Short pass",
+    "number": "2",
+    "last_name": "Peppi"
+  },
+  {
+    "﻿": "152",
+    "min": "12",
+    "sec": "17",
+    "secs": "737",
+    "action": "Short pass",
+    "number": "21",
+    "last_name": "Senja"
+  },
+  {
+    "﻿": "153",
+    "min": "12",
+    "sec": "20",
+    "secs": "740",
+    "action": "Short pass",
+    "number": "2",
+    "last_name": "Peppi"
+  },
+  {
+    "﻿": "154",
+    "min": "12",
+    "sec": "22",
+    "secs": "742",
+    "action": "Long run",
+    "number": "88",
+    "last_name": "Kerttu"
+  },
+  {
+    "﻿": "155",
+    "min": "12",
+    "sec": "24",
+    "secs": "744",
+    "action": "Shot/Missed",
+    "number": "88",
+    "last_name": "Kerttu"
+  },
+  {
+    "﻿": "163",
+    "min": "13",
+    "sec": "31",
+    "secs": "811",
+    "action": "Cover",
+    "number": "21",
+    "last_name": "Senja"
+  },
+  {
+    "﻿": "164",
+    "min": "13",
+    "sec": "33",
+    "secs": "813",
+    "action": "Long run",
+    "number": "21",
+    "last_name": "Senja"
+  },
+  {
+    "﻿": "165",
+    "min": "13",
+    "sec": "36",
+    "secs": "816",
+    "action": "Shot/On goal",
+    "number": "21",
+    "last_name": "Senja"
+  },
+  {
+    "﻿": "195",
+    "min": "16",
+    "sec": "1",
+    "secs": "961",
+    "action": "Throw-in",
+    "number": "8",
+    "last_name": "Moonika"
+  },
+  {
+    "﻿": "196",
+    "min": "16",
+    "sec": "5",
+    "secs": "965",
+    "action": "Dribble",
+    "number": "24",
+    "last_name": "Minttu"
+  },
+  {
+    "﻿": "197",
+    "min": "16",
+    "sec": "8",
+    "secs": "968",
+    "action": "Shot/Blocked",
+    "number": "24",
+    "last_name": "Minttu"
+  },
+  {
+    "﻿": "215",
+    "min": "18",
+    "sec": "21",
+    "secs": "1101",
+    "action": "Cover",
+    "number": "88",
+    "last_name": "Kerttu"
+  },
+  {
+    "﻿": "216",
+    "min": "18",
+    "sec": "23",
+    "secs": "1103",
+    "action": "Long run",
+    "number": "88",
+    "last_name": "Kerttu"
+  },
+  {
+    "﻿": "217",
+    "min": "18",
+    "sec": "32",
+    "secs": "1112",
+    "action": "Shot/On goal",
+    "number": "88",
+    "last_name": "Kerttu"
+  },
+  {
+    "﻿": "272",
+    "min": "23",
+    "sec": "14",
+    "secs": "1394",
+    "action": "Shot/On goal",
+    "number": "11",
+    "last_name": "Tilda"
+  },
+  {
+    "﻿": "305",
+    "min": "25",
+    "sec": "39",
+    "secs": "1539",
+    "action": "Throw-in",
+    "number": "23",
+    "last_name": "Sanni"
+  },
+  {
+    "﻿": "306",
+    "min": "25",
+    "sec": "48",
+    "secs": "1548",
+    "action": "Shot/On goal",
+    "number": "20",
+    "last_name": "Aino"
+  },
+  {
+    "﻿": "315",
+    "min": "26",
+    "sec": "32",
+    "secs": "1592",
+    "action": "Cover",
+    "number": "11",
+    "last_name": "Tilda"
+  },
+  {
+    "﻿": "316",
+    "min": "26",
+    "sec": "34",
+    "secs": "1594",
+    "action": "Shot/Missed",
+    "number": "11",
+    "last_name": "Tilda"
+  },
+  {
+    "﻿": "357",
+    "min": "29",
+    "sec": "45",
+    "secs": "1785",
+    "action": "Cross",
+    "number": "20",
+    "last_name": "Aino"
+  },
+  {
+    "﻿": "358",
+    "min": "29",
+    "sec": "50",
+    "secs": "1790",
+    "action": "Shot/Missed",
+    "number": "23",
+    "last_name": "Sanni"
+  },
+  {
+    "﻿": "393",
+    "min": "33",
+    "sec": "9",
+    "secs": "1989",
+    "action": "Short pass",
+    "number": "20",
+    "last_name": "Aino"
+  },
+  {
+    "﻿": "394",
+    "min": "33",
+    "sec": "11",
+    "secs": "1991",
+    "action": "Short pass",
+    "number": "88",
+    "last_name": "Kerttu"
+  },
+  {
+    "﻿": "395",
+    "min": "33",
+    "sec": "14",
+    "secs": "1994",
+    "action": "Long pass",
+    "number": "21",
+    "last_name": "Senja"
+  },
+  {
+    "﻿": "396",
+    "min": "33",
+    "sec": "15",
+    "secs": "1995",
+    "action": "Short pass",
+    "number": "11",
+    "last_name": "Tilda"
+  },
+  {
+    "﻿": "397",
+    "min": "33",
+    "sec": "17",
+    "secs": "1997",
+    "action": "Dribble",
+    "number": "88",
+    "last_name": "Kerttu"
+  },
+  {
+    "﻿": "398",
+    "min": "33",
+    "sec": "21",
+    "secs": "2001",
+    "action": "Shot/On goal",
+    "number": "88",
+    "last_name": "Kerttu"
+  },
+  {
+    "﻿": "449",
+    "min": "45",
+    "sec": "48",
+    "secs": "2748",
+    "action": "Pressure",
+    "number": "12",
+    "last_name": "Nessa"
+  },
+  {
+    "﻿": "450",
+    "min": "45",
+    "sec": "51",
+    "secs": "2751",
+    "action": "Shot/On goal",
+    "number": "11",
+    "last_name": "Tilda"
+  },
+  {
+    "﻿": "469",
+    "min": "47",
+    "sec": "30",
+    "secs": "2850",
+    "action": "Steal",
+    "number": "11",
+    "last_name": "Tilda"
+  },
+  {
+    "﻿": "470",
+    "min": "47",
+    "sec": "34",
+    "secs": "2854",
+    "action": "Shot/On goal",
+    "number": "11",
+    "last_name": "Tilda"
+  },
+  {
+    "﻿": "472",
+    "min": "47",
+    "sec": "47",
+    "secs": "2867",
+    "action": "Cover",
+    "number": "17",
+    "last_name": "Mette"
+  },
+  {
+    "﻿": "473",
+    "min": "47",
+    "sec": "50",
+    "secs": "2870",
+    "action": "Short pass",
+    "number": "11",
+    "last_name": "Tilda"
+  },
+  {
+    "﻿": "474",
+    "min": "47",
+    "sec": "51",
+    "secs": "2871",
+    "action": "Shot/Blocked",
+    "number": "8",
+    "last_name": "Moonika"
+  },
+  {
+    "﻿": "528",
+    "min": "52",
+    "sec": "48",
+    "secs": "3168",
+    "action": "Set piece",
+    "number": "2",
+    "last_name": "Peppi"
+  },
+  {
+    "﻿": "529",
+    "min": "52",
+    "sec": "53",
+    "secs": "3173",
+    "action": "Fake",
+    "number": "11",
+    "last_name": "Tilda"
+  },
+  {
+    "﻿": "530",
+    "min": "52",
+    "sec": "55",
+    "secs": "3175",
+    "action": "Shot/Blocked",
+    "number": "11",
+    "last_name": "Tilda"
+  },
+  {
+    "﻿": "533",
+    "min": "53",
+    "sec": "29",
+    "secs": "3209",
+    "action": "Set piece",
+    "number": "21",
+    "last_name": "Senja"
+  },
+  {
+    "﻿": "534",
+    "min": "53",
+    "sec": "33",
+    "secs": "3213",
+    "action": "Shot/On goal",
+    "number": "21",
+    "last_name": "Senja"
+  },
+  {
+    "﻿": "694",
+    "min": "70",
+    "sec": "16",
+    "secs": "4216",
+    "action": "Clearance",
+    "number": "88",
+    "last_name": "Kerttu"
+  },
+  {
+    "﻿": "695",
+    "min": "70",
+    "sec": "19",
+    "secs": "4219",
+    "action": "Long run",
+    "number": "17",
+    "last_name": "Mette"
+  },
+  {
+    "﻿": "696",
+    "min": "70",
+    "sec": "27",
+    "secs": "4227",
+    "action": "Cross",
+    "number": "17",
+    "last_name": "Mette"
+  },
+  {
+    "﻿": "697",
+    "min": "70",
+    "sec": "31",
+    "secs": "4231",
+    "action": "Shot/On goal",
+    "number": "24",
+    "last_name": "Minttu"
+  },
+  {
+    "﻿": "745",
+    "min": "74",
+    "sec": "52",
+    "secs": "4492",
+    "action": "Throw-in",
+    "number": "8",
+    "last_name": "Moonika"
+  },
+  {
+    "﻿": "746",
+    "min": "75",
+    "sec": "0",
+    "secs": "4500",
+    "action": "Short pass",
+    "number": "24",
+    "last_name": "Minttu"
+  },
+  {
+    "﻿": "747",
+    "min": "75",
+    "sec": "3",
+    "secs": "4503",
+    "action": "Shot/Blocked",
+    "number": "11",
+    "last_name": "Tilda"
+  },
+  {
+    "﻿": "749",
+    "min": "75",
+    "sec": "8",
+    "secs": "4508",
+    "action": "Shot/On goal",
+    "number": "20",
+    "last_name": "Aino"
+  },
+  {
+    "﻿": "759",
+    "min": "76",
+    "sec": "21",
+    "secs": "4581",
+    "action": "Duel",
+    "number": "21",
+    "last_name": "Senja"
+  },
+  {
+    "﻿": "760",
+    "min": "76",
+    "sec": "23",
+    "secs": "4583",
+    "action": "Long pass",
+    "number": "21",
+    "last_name": "Senja"
+  },
+  {
+    "﻿": "761",
+    "min": "76",
+    "sec": "25",
+    "secs": "4585",
+    "action": "Shot/Missed",
+    "number": "23",
+    "last_name": "Sanni"
+  }
+]
